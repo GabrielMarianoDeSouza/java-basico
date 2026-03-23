@@ -8,12 +8,13 @@ Este repositório contém materiais didáticos, exemplos práticos e exercícios
 
 ## Estrutura do Repositório
 poo-java/
-├── aulas/ - Apresentações e materiais de aula 
-├── ementa/ - Conteúdo programático e cronograma do curso 
-├── exemplos/ - Exemplos de código comentados 
-├── exercicios/ - Exercícios propostos com diferentes níveis de dificuldade 
-└── README.md - Este arquivo
 
+├── 📂 docs              
+│   └── 📂 aulas/ - Apresentações e materiais de aula
+
+│   └── 📂 ementa/ - Conteúdo programático e cronograma do curso  
+│   └── 📂 exemplos/ - Exemplos de código comentados   
+│   └── 📂 exercicios/ - Exercícios propostos com diferentes níveis de dificuldade 
 
 ## Requisitos
 
