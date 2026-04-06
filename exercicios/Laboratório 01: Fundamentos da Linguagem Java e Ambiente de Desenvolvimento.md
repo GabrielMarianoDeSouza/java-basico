@@ -12,7 +12,7 @@ Este repositório destina-se ao desenvolvimento das atividades práticas da aula
 																									
 ## 3. Fontes de Consulta e Apoio																									
 Como material complementar para a sintaxe e configuração do ambiente, os alunos devem consultar a playlist oficial:																									
-* **Curso de Java para Iniciantes (Prof. Gustavo Guanabara - Curso em Vídeo):** [Acessar Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTf1SpM)																									
+* **Curso de Java para Iniciantes (Prof. Gustavo Guanabara - Curso em Vídeo):** [Acessar Playlist](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=cGf9M7P9UPL7-hTs)																									
 																									
 ## 4. Metodologia de Execução e Entrega																									
 1. **Fork:** Realize o fork deste repositório para sua conta pessoal no GitHub.																									
